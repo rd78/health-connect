@@ -1,2 +1,2 @@
 # health-connect
-A repository of health services
+A repository of healthy connections
